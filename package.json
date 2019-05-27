@@ -1,5 +1,5 @@
 {
-  "name": "lv",
+  "name": "lvv",
   "version": "1.0.0",
   "description": "a cli tool to output random vim commands",
   "main": "index.js",
