@@ -4,7 +4,7 @@
   "description": "a cli tool to output random vim commands",
   "main": "index.js",
   "bin": {
-    "lvv": "./lv.js"
+    "lvv": "./lvv.js"
   },
   "repository": {
     "type": "git",
