@@ -4,11 +4,11 @@
   "description": "a cli tool to output random vim commands",
   "main": "index.js",
   "bin": {
-    "lv": "./lv.js"
+    "lvv": "./lv.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmal1/lv.git"
+    "url": "git+https://github.com/gmal1/lvv.git"
   },
   "keywords": [
     "vim",
@@ -18,9 +18,9 @@
   "author": "Nel Malikova",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gmal1/lv/issues"
+    "url": "https://github.com/gmal1/lvv/issues"
   },
-  "homepage": "https://github.com/gmal1/lv#readme",
+  "homepage": "https://github.com/gmal1/lvv#readme",
   "dependencies": {
     "chalk": "^2.4.2"
   }
