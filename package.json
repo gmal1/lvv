@@ -14,7 +14,9 @@
     "url": "git+https://github.com/gmal1/vim-commands-cli.git"
   },
   "keywords": [
-    "vim"
+    "vim",
+    "cli",
+    "command line"
   ],
   "author": "",
   "license": "MIT",

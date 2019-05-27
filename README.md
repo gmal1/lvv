@@ -1,2 +1,4 @@
 # vim-commands-cli
-cli tool to output random vim commands
+Run `lv` in the terminal to output a random vim command, so you can finally Learn Vim. 🙄
+
+Cheat sheet stolen from https://vim.rtorr.com/.
