@@ -1,29 +1,26 @@
 {
-  "name": "vim-commands-cli",
+  "name": "lv",
   "version": "1.0.0",
   "description": "a cli tool to output random vim commands",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "lv": "./lv.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmal1/vim-commands-cli.git"
+    "url": "git+https://github.com/gmal1/lv.git"
   },
   "keywords": [
     "vim",
     "cli",
     "command line"
   ],
-  "author": "",
+  "author": "Nel Malikova",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gmal1/vim-commands-cli/issues"
+    "url": "https://github.com/gmal1/lv/issues"
   },
-  "homepage": "https://github.com/gmal1/vim-commands-cli#readme",
+  "homepage": "https://github.com/gmal1/lv#readme",
   "dependencies": {
     "chalk": "^2.4.2"
   }
