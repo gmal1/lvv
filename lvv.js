@@ -6,9 +6,12 @@ const { commands } = require('./commands.js');
 const log = console.log;
 
 const arrOfCommands = commands.split('\n');
+const nextCommand = arrOfCommands[
+  Math.floor(Math.random() * arrOfCommands.length - 1) + 1
+].split('-');
 
 log(
-  chalk.magenta(
-    arrOfCommands[Math.floor(Math.random() * arrOfCommands.length - 1) + 1]
+  chalk.hex('#19f9d8')(
+    `${nextCommand[0]}${chalk.hex('#FF9AC1')(nextCommand.slice(1).join(''))}`
   )
 );

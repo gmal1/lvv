@@ -1,7 +1,7 @@
 {
   "name": "lvv",
-  "version": "1.0.0",
-  "description": "a cli tool to output random vim commands",
+  "version": "1.0.2",
+  "description": "a cli cheat sheet for vim",
   "main": "index.js",
   "bin": {
     "lvv": "./lvv.js"
