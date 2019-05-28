@@ -1,7 +1,5 @@
 # lvv
 
-## installation
-
 ```
 npm install -g lvv
 ```
