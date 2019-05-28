@@ -144,5 +144,5 @@ module.exports = {
     :tabclose or :tabc - close the current tab and all its windows 
     :tabonly or :tabo - close all tabs except for the current one
     :tabdo command - run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
-  `
+  `,
 };
