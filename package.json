@@ -4,7 +4,7 @@
   "description": "a cli cheat sheet for vim",
   "main": "index.js",
   "bin": {
-    "lvv": "./lvv.js"
+    "lvv": "./lvv"
   },
   "repository": {
     "type": "git",
